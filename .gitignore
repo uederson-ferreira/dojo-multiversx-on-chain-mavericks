@@ -1,0 +1,23 @@
+# 📌 Ignorar arquivos de logs e dependências
+node_modules/
+venv/
+.env
+*.log
+
+# 📌 Ignorar arquivos de compilação do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📌 Ignorar arquivos do Git e do Editor de Código
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# 📌 Ignorar arquivos temporários do sistema e do terminal
+*.bak
+*.tmp
+*.log
+*.cache
