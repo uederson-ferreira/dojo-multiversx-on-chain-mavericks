@@ -1,6 +1,3 @@
-Segue um exemplo de conteúdo para um arquivo `README.md` com as informações de teste do CRUD:
-
-```markdown
 # CRUD com Hyper em Rust
 
 Este projeto é um exemplo simples de um CRUD (Create, Read, Update, Delete) utilizando Rust, Hyper, Tokio, e Serde para gerenciar registros (ex.: pessoas). O projeto utiliza um único arquivo (`src/main.rs`) e armazena os dados em memória com um `HashMap`.
@@ -86,6 +83,3 @@ curl -X DELETE http://127.0.0.1:3000/person/1
 ## Considerações Finais
 
 Este exemplo demonstra como criar um servidor HTTP simples com suporte a operações CRUD utilizando armazenamento em memória. Para aplicações em produção, recomenda-se utilizar um banco de dados persistente e implementar mecanismos adequados de tratamento de erros e segurança.
-```
-
-Basta salvar esse conteúdo em um arquivo `README.md` na raiz do seu projeto.
