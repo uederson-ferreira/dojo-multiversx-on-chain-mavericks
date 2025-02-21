@@ -40,7 +40,7 @@ A equipe **MultiversX Dojo** é composta pelos seguintes membros:
 | Nome | GitHub |
 |------|--------|
 | Uederson Ferreira | [@uederson-ferreira](https://github.com/uederson-ferreira) |
-| Luciano Zanin | [@usuario2](https://github.com/usuario2) |
+| Luciano Zanin | [@lucianoZgabriel](https://github.com/lucianoZgabriel) |
 | Kelvin Tanita | [@usuario3](https://github.com/usuario3) |
 
 *(Caso você deseje participar, contribua para este repositório!)*
