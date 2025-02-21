@@ -122,3 +122,11 @@ Este projeto está licenciado sob a MIT License.
 🙌 Agradecimentos
 
 Projeto desenvolvido como parte do desafio "IA com TypeScript".
+
+A equipe **MultiversX Dojo** é composta pelos seguintes membros:
+
+| Nome | GitHub |
+|------|--------|
+| Uederson Ferreira | [@uederson-ferreira](https://github.com/uederson-ferreira) |
+| Nome 2 | [@usuario2](https://github.com/usuario2) |
+| Nome 3 | [@usuario3](https://github.com/usuario3) |

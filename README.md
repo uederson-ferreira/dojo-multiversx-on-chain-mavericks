@@ -39,7 +39,7 @@ A equipe **MultiversX Dojo** é composta pelos seguintes membros:
 
 | Nome | GitHub |
 |------|--------|
-| Nome 1 | [@usuario1](https://github.com/usuario1) |
+| Uederson Ferreira | [@uederson-ferreira](https://github.com/uederson-ferreira) |
 | Nome 2 | [@usuario2](https://github.com/usuario2) |
 | Nome 3 | [@usuario3](https://github.com/usuario3) |
 
