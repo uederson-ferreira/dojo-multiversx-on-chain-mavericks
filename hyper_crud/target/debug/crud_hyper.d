@@ -1,0 +1,1 @@
+/Users/uedersonferreira/Desktop/Programacao/NearX/dojo-multiversx-on-chain-mavericks/hyper_crud/target/debug/crud_hyper: /Users/uedersonferreira/Desktop/Programacao/NearX/dojo-multiversx-on-chain-mavericks/hyper_crud/src/main.rs
