@@ -40,8 +40,8 @@ A equipe **MultiversX Dojo** é composta pelos seguintes membros:
 | Nome | GitHub |
 |------|--------|
 | Uederson Ferreira | [@uederson-ferreira](https://github.com/uederson-ferreira) |
-| Nome 2 | [@usuario2](https://github.com/usuario2) |
-| Nome 3 | [@usuario3](https://github.com/usuario3) |
+| Luciano Zanin | [@usuario2](https://github.com/usuario2) |
+| Kelvin Tanita | [@usuario3](https://github.com/usuario3) |
 
 *(Caso você deseje participar, contribua para este repositório!)*
 
@@ -92,4 +92,3 @@ O Dojo MultiversX é estruturado em **12 desafios progressivos**, cada um aborda
 Este projeto está licenciado sob a **MIT License**. Para mais detalhes, consulte o arquivo **LICENSE**.
 
 🌟 Desenvolvido durante o programa **Dojo MultiversX**.
-
