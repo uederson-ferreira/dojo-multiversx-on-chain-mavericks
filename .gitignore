@@ -21,3 +21,24 @@ __pycache__/
 *.tmp
 *.log
 *.cache
+
+# Diretórios e arquivos gerados pelo Cargo
+/target/
+Cargo.lock
+
+# Arquivos temporários ou de backup do Rust
+*.rs.bk
+*.tmp
+
+# Arquivos e diretórios específicos do macOS
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+
+# Outros arquivos do macOS
+.Spotlight-V100
+.Trashes
+Icon?
+
