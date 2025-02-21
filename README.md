@@ -53,8 +53,8 @@ O Dojo MultiversX é estruturado em **12 desafios progressivos**, cada um aborda
 
 | Semana | Tema | Desafio |
 |--------|------|---------|
-| 🟢 Week 1 | Rust | Criar um servidor CRUD (Create, Read, Update, Delete) |
-| ⏰ Week 2 | IA com TypeScript | Desenvolver um chatbot simples usando GPT |
+| 🟢 Week 1 | Rust | [Criar um servidor CRUD (Create, Read, Update, Delete)](https://github.com/uederson-ferreira/dojo-multiversx-on-chain-mavericks/tree/main/hyper_crud) |
+| 🟢 Week 2 | IA com TypeScript | [Desenvolver um chatbot simples usando GPT](https://github.com/uederson-ferreira/dojo-multiversx-on-chain-mavericks/tree/main/chatbot-ia) |
 | ⏰ Week 3 | WebAssembly | Criar binários WebAssembly e executá-los |
 | ⏰ Week 4 | Eliza Básico | Criar um agente simples com Eliza |
 | ⏰ Week 5 | Smart Contracts | Desenvolver um CRUD em smart contracts na testnet |
@@ -73,7 +73,7 @@ O Dojo MultiversX é estruturado em **12 desafios progressivos**, cada um aborda
 | Semana | Desafio | Início | Término | Status |
 |--------|---------|--------|---------|--------|
 | 🟢 Semana 1 | Servidor Rust CRUD | 13/02/2025 | 19/02/2025 | 🔄 Em andamento |
-| ⏰ Semana 2 | IA com TypeScript | 19/02/2025 | 26/02/2025 | ⏳ Aguardando |
+| 🟢 Semana 2 | IA com TypeScript | 19/02/2025 | 26/02/2025 | ⏳ Aguardando |
 | ⏰ Semana 3 | WebAssembly | 26/02/2025 | 05/03/2025 | ⏳ Aguardando |
 | ⏰ Semana 4 | Eliza Básico | 05/03/2025 | 12/03/2025 | ⏳ Aguardando |
 | ⏰ Semana 5 | Smart Contracts | 12/03/2025 | 19/03/2025 | ⏳ Aguardando |
