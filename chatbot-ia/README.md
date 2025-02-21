@@ -122,13 +122,3 @@ Este projeto está licenciado sob a MIT License.
 🙌 Agradecimentos
 
 Projeto desenvolvido como parte do desafio "IA com TypeScript".
-Contribuído por [Seu Nome].
-
-
-### 🔹 Como usar no GitHub:
-1. **Copie e cole** este conteúdo no arquivo `README.md` do seu repositório.
-2. **Faça o commit** do arquivo:
-   ```bash
-   git add README.md
-   git commit -m "Adicionando documentação do projeto"
-   git push origin main
