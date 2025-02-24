@@ -1,0 +1,10 @@
+/Users/lucianogabriel/dojo-multiversx-on-chain-mavericks/hyper_crud/target/debug/deps/libhttparse-82ffec4673d78f90.rmeta: /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/lib.rs /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/iter.rs /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/macros.rs /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/mod.rs /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/swar.rs /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/neon.rs
+
+/Users/lucianogabriel/dojo-multiversx-on-chain-mavericks/hyper_crud/target/debug/deps/httparse-82ffec4673d78f90.d: /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/lib.rs /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/iter.rs /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/macros.rs /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/mod.rs /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/swar.rs /Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/neon.rs
+
+/Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/lib.rs:
+/Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/iter.rs:
+/Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/macros.rs:
+/Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/mod.rs:
+/Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/swar.rs:
+/Users/lucianogabriel/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.10.0/src/simd/neon.rs:
