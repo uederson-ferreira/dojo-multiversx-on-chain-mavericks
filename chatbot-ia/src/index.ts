@@ -37,6 +37,15 @@ async function selecionarProvider(opcao: string): Promise<IAProvider> {
   }
 }
 
+// Função para exibir a resposta com efeito de digitação
+async function typeWriterEffect(text: string, delay: number = 20) {
+  for (const char of text) {
+    process.stdout.write(char);
+    await new Promise(resolve => setTimeout(resolve, delay));
+  }
+  process.stdout.write("\n"); // Nova linha ao final
+}
+
 async function iniciarChat() {
   const opcao = await exibirMenu();
   const provider = await selecionarProvider(opcao);
@@ -45,7 +54,7 @@ async function iniciarChat() {
   rl.on('line', async (input: string) => {
     try {
       const resposta = await provider.getResponse(input);
-      console.log("Resposta:", resposta);
+      await typeWriterEffect(resposta); // Exibe resposta como se estivesse sendo digitada
     } catch (error) {
       console.error("Erro ao obter resposta:", error);
     }

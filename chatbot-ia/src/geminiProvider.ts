@@ -26,15 +26,18 @@ export class GeminiProvider implements IAProvider {
       };
 
       const { data } = await axios.post(GEMINI_API_URL, payload, { headers });
-      
-      // Extrai somente o texto da resposta final
+
+      let responseText = "";
       if (data && data.candidates && data.candidates.length > 0) {
         const candidate = data.candidates[0];
         if (candidate.content && candidate.content.parts && candidate.content.parts.length > 0) {
-          return candidate.content.parts[0].text.trim();
+          responseText = candidate.content.parts[0].text.trim();
         }
+      } else {
+        responseText = JSON.stringify(data);
       }
-      return JSON.stringify(data);
+
+      return responseText;
     } catch (error) {
       console.error('Erro na requisição ao Gemini:', error);
       throw error;

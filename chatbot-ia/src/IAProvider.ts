@@ -1,4 +1,3 @@
 export interface IAProvider {
-    getResponse(prompt: string): Promise<string>;
-  }
-  
+  getResponse(prompt: string): Promise<string>;
+}

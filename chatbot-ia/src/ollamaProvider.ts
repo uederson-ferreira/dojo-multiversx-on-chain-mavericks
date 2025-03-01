@@ -15,7 +15,7 @@ export class OllamaProvider implements IAProvider {
     try {
       // Realiza uma chamada à API de chat do Ollama
       const response = await ollamaClient.chat({
-        model: 'llama3.1',
+        model: 'llama3.2',
         messages: [{ role: 'user', content: prompt }],
         stream: false  // Define false para receber a resposta completa em uma única requisição
       });
